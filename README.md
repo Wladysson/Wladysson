@@ -1,13 +1,14 @@
-# Eae, Eu sou o Wladysson🤟🏻
+# Eai, Eu sou o Wladysson🤟🏻
 
 **`Desenvolvedor Back-end`**
 
-Sou desenvolvedor Back-End, com sólida experiência no desenvolvimento de aplicações web, dekstop e utilizaçao de APIS. Isto inclui  desenvolvimento e manutenção de aplicações web, integração de sistemas, gestão de Banco de Dados, além do uso de AWS para hospedagem e escalabilidade.
+Sou desenvolvedor Back-End com sólida experiência no desenvolvimento de aplicações web, dekstop e utilizaçao de APIS. Isto inclui  desenvolvimento e manutenção de aplicações web, integração de sistemas, gestão de Banco de Dados, além do uso de AWS para hospedagem e escalabilidade.
 
 ---
 ### 🤖 Linguagens e Tecnologias
 <div style="display: inline_block"><br>
   <img align="center" alt="wlady-java" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="wlady-spring" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
   <img align="center" alt="wlady-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="wlady-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
   <img align="center" alt="wlady-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
@@ -35,4 +36,5 @@ Sou desenvolvedor Back-End, com sólida experiência no desenvolvimento de aplic
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wladysson&layout=compact&theme=dark)
+
 
