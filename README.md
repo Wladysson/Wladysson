@@ -17,6 +17,7 @@ Sou desenvolvedor Back-End com sólida experiência no desenvolvimento de aplica
   <img align="center" alt="wlady-ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original-wordmark.svg">
   <img align="center" alt="wlady-kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="wlady-fastapi" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg">
+  <img align="center" alt="wlady-phalcon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/phalcon/phalcon-original.svg">
   <img align="center" alt="wlady-django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg">
    <img align="center" alt="wlady-docker" height="" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
   <img align="center" alt="wlady-mysql" height="" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
