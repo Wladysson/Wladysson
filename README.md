@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-end`**
 
-Sou desenvolvedor Back-End com sólida experiência no desenvolvimento de aplicações web, dekstop e utilizaçao de APIS. Isto inclui  desenvolvimento e manutenção de aplicações web, integração de sistemas, gestão de Banco de Dados, além do uso de AWS para hospedagem e escalabilidade.
+Desenvolvedor Back-End com sólida experiência no desenvolvimento de aplicações web, dekstop e utilizaçao de APIS. Isto inclui  desenvolvimento e manutenção de aplicações web, integração de sistemas, gestão de Banco de Dados, além do uso de AWS para hospedagem e escalabilidade.
 
 ---
 ### 🤖 Linguagens e Tecnologias
