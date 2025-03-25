@@ -1,6 +1,6 @@
 # Eai, Eu sou o Wladysson🤟🏻
 
-**`Desenvolvedor Back-end`**
+**`Desenvolvedor Full-Stack`**
 
 Desenvolvedor Full-Stack com sólida experiência no desenvolvimento de aplicações web, dekstop,  utilizaçao de APIs e Frameworks, desenvolvimento e manutenção de aplicações web, integração de sistemas, gestão de Banco de Dados, além do uso de AWS para hospedagem e escalabilidade.
 
