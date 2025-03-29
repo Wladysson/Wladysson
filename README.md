@@ -41,4 +41,8 @@ Desenvolvedor Full-Stack com sólida experiência no desenvolvimento de aplicaç
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wladysson&show_icons=true&theme=dark)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wladysson&layout=compact&theme=dark)
+<div align="left">
+  
+  <img width="41%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wladysson&layout=compact&hide_border=true&title_color=black&text_color=&bg_color=0d1117" />
+  
+ </div>
