@@ -43,6 +43,6 @@ Desenvolvedor Full-Stack com sólida experiência no desenvolvimento de aplicaç
 
 <div align="left">
   
-  <img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wladysson&layout=compact&theme=dark&border_color=ffffff" />
+  <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wladysson&layout=compact&theme=dark&border_color=ffffff" />
   
  </div>
