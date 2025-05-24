@@ -79,19 +79,25 @@ Desenvolvedor de Software com sólida experiência no desenvolvimento de aplica�
      style="margin-right: 25px; vertical-align: middle;" />
 
 ---
+
 <div>
   <a href="https://www.linkedin.com/in/wladyson-ara%C3%BAjo-a47348272/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 
 </br>
 </br>
 
+---
+
 ### 📊 Estatisticas
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wladysson&show_icons=true&theme=dark)
+
+### 🧑‍💻🚀Andamento e Desenvolvimento
 
 <div align="left">
   
   <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wladysson&layout=compact&theme=dark&border_color=ffffff" />
   
  </div>
+
 
