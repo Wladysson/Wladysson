@@ -1,4 +1,3 @@
-
 # Eai, Eu sou o Wladysson🤟🏻
 
 **`Desenvolvedor`**
@@ -36,22 +35,22 @@ Desenvolvedor de Software com sólida experiência no desenvolvimento de aplica�
 
 <img alt="wlady-spring" height="70" width="40"
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
-     style="margin-right: 15px; vertical-align: middle;" />
+     style="margin-right: 25px; vertical-align: middle;" />
 <img alt="wlady-fastapi" height="70" width="40"
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"
-     style="margin-right: 15px; vertical-align: middle;" />
+     style="margin-right: 25px; vertical-align: middle;" />
 <img alt="wlady-phalcon" height="70" width="40"
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/phalcon/phalcon-original.svg"
-     style="margin-right: 15px; vertical-align: middle;" />
+     style="margin-right: 25px; vertical-align: middle;" />
 <img alt="wlady-django" height="70" width="40"
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"
-     style="margin-right: 15px; vertical-align: middle;" />
+     style="margin-right: 25px; vertical-align: middle;" />
 <img alt="wlady-hibernate" height="70" width="40"
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg"
-     style="margin-right: 15px; vertical-align: middle;" />
+     style="margin-right: 25px; vertical-align: middle;" />
 <img alt="wlady-pandas" height="70" width="40"
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"
-     style="margin-right: 15px; vertical-align: middle;" />
+     style="margin-right: 25px; vertical-align: middle;" />
 <img alt="wlady-flask" height="70" width="40"
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg"
      style="vertical-align: middle;" />
@@ -61,10 +60,10 @@ Desenvolvedor de Software com sólida experiência no desenvolvimento de aplica�
 
   <img alt="wlady-postgresql" height="70" width="50"
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
-     style="margin-right: 20px; vertical-align: middle;" />
+     style="margin-right: 25px; vertical-align: middle;" />
 <img alt="wlady-mysql" height="70" width="50"
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
-     style="margin-right: 20px; vertical-align: middle;" />
+     style="margin-right: 25px; vertical-align: middle;" />
 <img alt="wlady-maria" height="70" width="50"
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg"
      style="vertical-align: middle;" />
@@ -74,10 +73,10 @@ Desenvolvedor de Software com sólida experiência no desenvolvimento de aplica�
 
 <img alt="wlady-spring" height="70" width="60"
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-     style="margin-right: 15px; vertical-align: middle;" />
+     style="margin-right: 25px; vertical-align: middle;" />
 <img alt="wlady-spring" height="70" width="60"
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg"
-     style="margin-right: 15px; vertical-align: middle;" />
+     style="margin-right: 25px; vertical-align: middle;" />
 
 ---
 <div>
@@ -95,3 +94,4 @@ Desenvolvedor de Software com sólida experiência no desenvolvimento de aplica�
   <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wladysson&layout=compact&theme=dark&border_color=ffffff" />
   
  </div>
+
