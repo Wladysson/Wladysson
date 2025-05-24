@@ -2,7 +2,7 @@
 
 **`Desenvolvedor`**
 
-Desenvolvedor de Software com sólida experiência no desenvolvimento de aplicações web e desktop, integração de sistemas, consumo e criação de APIs RESTful e uso de frameworks modernos. Atua na manutenção e evolução de sistemas, com forte domínio em bancos de dados relacionais (PostgreSQL) e utilização de serviços em nuvem, especialmente AWS, para hospedagem, monitoramento e escalabilidade. Também possui experiência com Docker para ambientes padronizados e entrega contínua.
+Desenvolvedor de Software com sólida experiência no desenvolvimento de aplicações web e desktop, integração de sistemas, consumo e criação de APIs RESTful e uso de frameworks modernos. Atuo na manutenção e evolução de sistemas, com forte domínio em bancos de dados relacionais (PostgreSQL) e utilização de serviços em nuvem, especialmente AWS, para hospedagem, monitoramento e escalabilidade. Também possui experiência com Docker para ambientes padronizados e entrega contínua.
 
 ---
 ### 🤖 Linguagens_Tecnologias
