@@ -1,4 +1,4 @@
-# Eai, Eu sou o Wladysson🤟🏻
+# Hello, I'm Wladysson Araújo
 
 **`Desenvolvedor`**
 
