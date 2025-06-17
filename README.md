@@ -1,4 +1,4 @@
-# Hello, I'm Wladysson Araújo
+# Eai, Eu sou o Wladysson🤟🏻
 
 **`Desenvolvedor`**
 
@@ -32,7 +32,8 @@ Software Developer with solid experience in building web and desktop application
 ### 📜 Certifications and Technical Qualifications
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-2023-%23FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20Cloud%20Foundations-2023-%23FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-2025-%23FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS%20Developer%20Associate-2025-%23232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS%20SysOps%20Administrator-2025-%23007FFF?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS%20Solutions%20Architect%20Associate-2025-%23232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
@@ -45,8 +46,8 @@ Software Developer with solid experience in building web and desktop application
 
 | Projeto                       | Descrição                                                                                             | Tecnologias                             |                                  |
 |------------------------------|-----------------------------------------------------------------------------------------------------|---------------------------------------|----------------------------------------|
-| **🎰 Cassinologia (Cassino Online)-(Em Desenvolvimento)** |  Jogo online em microsserviços com backend Python (FastAPI), frontend em JavaScript puro, e infraestrutura AWS com Docker e Terraform. Foco em segurança, escalabilidade e integração com criptomoedas. | Python, FastAPI, JavaScript, React, AWS, Docker, Terraform, PostgreSQL  
-| **🏦 Sistema Bancário**          | API RESTful para operações bancárias com autenticação, controle de saldo e transações seguras.      | Java, maven, PostgreSQL, JWT    
+| **🎰 Cassinologia (Cassino Online)-(Em Desenvolvimento)** |  Online game in microservices with Python backend (FastAPI), pure JavaScript frontend, and AWS infrastructure with Docker and Terraform. Focus on security, scalability and integration with cryptocurrencies. | Python, FastAPI, JavaScript, React, AWS, Docker, Terraform, PostgreSQL
+| **🏦 Sistema Bancário**          | RESTful API for banking operations with authentication, balance control and secure transactions.      | Java, maven, PostgreSQL, JWT    
 ---
 
 ### Get in Touch / Professional Networks
