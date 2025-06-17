@@ -1,10 +1,14 @@
 # Hey, I'm Wladysson Araujo
 
-**`Desenvolvedor`**
+**`Desenvolvimento - Cloud Computing - Ciencia de Dados - IA`**
 
 ![Minha Foto](/github.png)
 
-Software Developer with solid experience in building web and desktop applications, with an emphasis on scalable architecture, systems integration and RESTful API development. I have mastery of modern frameworks and relational databases, such as PostgreSQL, as well as practical experience in cloud computing environments, especially on AWS, applying solutions for monitoring, high availability and scalability with DevOps practices using Docker to standardize environments and continuous integration and delivery (CI/CD) pipelines.
+Software developer with solid experience in building web and desktop applications, with an emphasis on scalable architecture, systems integration, and development of RESTful APIs. I have mastery of modern frameworks and relational databases, as well as practical experience in cloud computing environments, DevOps practices, using Docker to standardize environments, and continuous integration and delivery pipelines.
+
+Experience with relational databases, especially PostgreSQL, applying advanced modeling techniques, query optimization, and transaction control. Experience in cloud computing environments, mainly on AWS, using services such as EC2, S3, RDS, CloudWatch, and IAM, aiming at high availability, automation, observability, and scalability.
+
+In addition to technical skills, I always seek continuous learning and the delivery of solutions that add value to the business. I constantly seek to improve my knowledge in areas such as software architecture, cloud computing, cybersecurity, and artificial intelligence.
 
 ### 	Development Environment / Tool Stack
 
