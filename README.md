@@ -2,6 +2,8 @@
 
 **`Desenvolvedor`**
 
+![Minha Foto](/github.png)
+
 Software Developer with solid experience in building web and desktop applications, with an emphasis on scalable architecture, systems integration and RESTful API development. I have mastery of modern frameworks and relational databases, such as PostgreSQL, as well as practical experience in cloud computing environments, especially on AWS, applying solutions for monitoring, high availability and scalability with DevOps practices using Docker to standardize environments and continuous integration and delivery (CI/CD) pipelines.
 
 ### 	Development Environment / Tool Stack
