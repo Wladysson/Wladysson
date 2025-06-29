@@ -2,7 +2,7 @@
 
 **`Desenvolvimento - Cloud Computing - Ciencia de Dados - IA`**
 
-![Minha Foto](/fundo.png)
+![Minha Foto](/fundogit.png)
 
 Software developer with solid experience in building web and desktop applications, with an emphasis on scalable architecture, systems integration, and development of RESTful APIs. I have mastery of modern frameworks and relational databases, as well as practical experience in cloud computing environments, DevOps practices, using Docker to standardize environments, and continuous integration and delivery pipelines.
 
