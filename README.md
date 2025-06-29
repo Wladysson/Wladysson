@@ -4,11 +4,26 @@
 
 ![Minha Foto](/fundogit.png)
 
-Software developer with solid experience in building web and desktop applications, with an emphasis on scalable architecture, systems integration, and development of RESTful APIs. I have mastery of modern frameworks and relational databases, as well as practical experience in cloud computing environments, DevOps practices, using Docker to standardize environments, and continuous integration and delivery pipelines.
+Professional with a solid foundation in Java and Spring development, data analysis and technical support, currently focused on evolving into strategic areas such as Cloud Computing, Data Engineering and Infrastructure Automation, working in a practical and analytical way, using modern tools such as Power BI and advanced Excel to transform data into valuable insights, supporting decisions and optimizing processes.
 
-Experience with relational databases, especially PostgreSQL, applying advanced modeling techniques, query optimization, and transaction control. Experience in cloud computing environments, mainly on AWS, using services such as EC2, S3, RDS, CloudWatch, and IAM, aiming at high availability, automation, observability, and scalability.
+In recent years, I have dedicated even more of my professional and educational efforts to Java, Terraform and cloud computing with AWS, focusing on building scalable, resilient and secure environments in the provisioning and management of services such as:
 
-In addition to technical skills, I always seek continuous learning and the delivery of solutions that add value to the business. I constantly seek to improve my knowledge in areas such as software architecture, cloud computing, cybersecurity, and artificial intelligence.
+EC2 (Elastic Compute Cloud) for managing Linux/Windows instances, including remote access, autoscaling and permission control with IAM;
+
+S3 for storing objects with versioning, access policies and integration with web applications;
+
+IAM, applying good practices for segregation of duties, security policies (JSON), MFA and roles between accounts and services;
+
+RDS (MySQL/PostgreSQL) for managed relational databases, with automated snapshots, replication and performance tuning;
+VPC, Subnets, NAT Gateway, Internet Gateway and Security Groups, structuring isolated and secure environments for production and testing;
+Lambda, EventBridge and CloudWatch, composing serverless, event-driven solutions with integrated observability;
+Route 53 and CloudFront for managed DNS and low-latency content delivery;
+Terraform for Infrastructure as Code (IaC) with automated provisioning, modularization and versioning of complete environments via Git.
+
+I believe that the cloud goes beyond "uploading files" — it requires strategic architecture, cost control, automation, security and performance, all aligned with the business reality.
+Currently, I am also deepening my knowledge in SQL and automation and API manipulation, data structures, algorithms and DevOps fundamentals in order to build modern, secure and scalable solutions.
+
+I am constantly evolving and continuously learning, seeking challenges that allow me to grow professionally and contribute to projects with purpose and real impact.
 
 ### 	Development Environment / Tool Stack
 
