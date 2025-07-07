@@ -27,7 +27,7 @@ I am constantly evolving and continuously learning, seeking challenges that allo
 
 ### 	Development Environment / Tool Stack
 
-[![My Skills](https://skillicons.dev/icons?i=linux,vscode,androidstudio,git,idea,eclipse,postgres,mysql,&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,arch,vscode,androidstudio,git,idea,eclipse,postgres,mysql,&theme=light)](https://skillicons.dev)
 
 ---
 
