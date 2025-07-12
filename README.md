@@ -65,10 +65,12 @@ I am constantly evolving and continuously learning, seeking challenges that allo
 
 ### 📂 Featured Projects
 
-| Projeto                       | Descrição                                                                                             | Tecnologias                             |                                  |
-|------------------------------|-----------------------------------------------------------------------------------------------------|---------------------------------------|----------------------------------------|
-| **🎰 Cassinologia (Cassino Online)-(Em Desenvolvimento)** |  Online game in microservices with Python backend (FastAPI), pure JavaScript frontend, and AWS infrastructure with Docker and Terraform. Focus on security, scalability and integration with cryptocurrencies. | Python, FastAPI, JavaScript, React, AWS, Docker, Terraform, PostgreSQL
-| **🏦 Sistema Bancário**          | RESTful API for banking operations with authentication, balance control and secure transactions.      | Java, maven, PostgreSQL, JWT    
+| Projeto                                           | Descrição                                                                                                                                           | Tecnologias                                                                                       |
+|--------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
+| **🎰 Cassinologia (Cassino Online)**             | Jogo online com arquitetura em microsserviços, backend em Python (FastAPI), frontend em JavaScript puro + React, infraestrutura AWS com Docker e Terraform. Foco em segurança, escalabilidade e integração com criptomoedas. | Python, FastAPI, JavaScript, React, AWS, Docker, Terraform, PostgreSQL, WebSockets, OAuth2       |
+| **🏦 Sistema Bancário**                          | API RESTful para operações bancárias como autenticação, saldo, depósito e saque, com segurança via JWT.                                            | Java, Maven, PostgreSQL, JWT, REST                                                                 |
+| **🧱 Laboratórios AWS (30 Labs)**                | Repositório com 30 laboratórios práticos divididos em níveis básico, intermediário e avançado para prática de DevOps, Cloud e infraestrutura como código. | AWS, Terraform, Docker, GitHub Actions, EKS, ECS, Lambda, Prometheus, Grafana, Jenkins, Cognito   |
+| **🕹️ Game em Java (Roguelike / Soul Knight-like)** | Game 2D com Java focado em ação e progressão de níveis, com gráficos e lógica integrados, potencial para versão fullscreen e integração com C/C#.   | Java, Swing/JavaFX, SDL (via JNI), integração com C/C#, arquivos binários, design modular         |  
 ---
 
 ### Get in Touch / Professional Networks
