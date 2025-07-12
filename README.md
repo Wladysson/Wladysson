@@ -1,6 +1,6 @@
 # Hey, I'm Wladyson Araujo
 
-**`Desenvolvimento - Cloud Computing - Ciencia de Dados - IA`**
+**`Desenvolvimento - Cloud Computing`**
 
 ![Minha Foto](/fundogit.png)
 
