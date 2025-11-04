@@ -4,6 +4,7 @@
 
 ![Minha Foto](/fundogit.png)
 
+<<<<<<< HEAD
 Professional with a solid foundation in Java and Spring development, data analysis and technical support, currently focused on evolving into strategic areas such as Cloud Computing, Data Engineering and Infrastructure Automation, working in a practical and analytical way, using modern tools such as Power BI and advanced Excel to transform data into valuable insights, supporting decisions and optimizing processes.
 
 In recent years, I have dedicated even more of my professional and educational efforts to Java, Terraform and cloud computing with AWS, focusing on building scalable, resilient and secure environments in the provisioning and management of services such as:
@@ -25,6 +26,9 @@ Currently, I am also deepening my knowledge in SQL and automation and API manipu
 
 I am constantly evolving and continuously learning, seeking challenges that allow me to grow professionally and contribute to projects with purpose and real impact.
 
+=======
+Sou um profissional apaixonado por tecnologia e inovação, comprometido em transformar desafios complexos em soluções eficientes e impactantes. Com uma base sólida em desenvolvimento Java, Spring, análise de dados e suporte técnico, direciono minha carreira para áreas como Cloud Computing e Automação de Infraestrutura juntamente com desenvolvimento back-end, sempre com uma abordagem prática e analítica. Nos últimos anos, tenho aprofundado meus conhecimentos em Java, Terraform e AWS, focando na construção de ambientes escaláveis, resilientes e seguros, gerenciando serviços como EC2 (instâncias Linux/Windows, autoscaling e controle via IAM), S3 (armazenamento com versionamento e políticas), IAM (segregação de funções, MFA e roles), RDS (MySQL/PostgreSQL com snapshots, replicação e tuning), VPC (subnets, NAT Gateway, Internet Gateway e Security Groups), Lambda, EventBridge e CloudWatch (soluções serverless e monitoramento), Route 53 e CloudFront (DNS gerenciado e entrega de conteúdo), além de Terraform para Infraestrutura como Código, com provisionamento automatizado e versionamento via Git. Também me dedico a aprimorar conhecimentos em SQL, automações, manipulação de APIs, estruturas de dados, algoritmos e fundamentos de DevOps, com o objetivo de criar soluções modernas, seguras e escaláveis. Estou em constante evolução e aprendizado contínuo, buscando oportunidades que me desafiem a crescer profissionalmente e a contribuir para projetos com propósito e impacto real
+>>>>>>> a7014df (Atualiza README com novas informações)
 ### 	Development Environment / Tool Stack
 
 [![My Skills](https://skillicons.dev/icons?i=linux,arch,vscode,androidstudio,git,idea,eclipse,postgres,mysql,&theme=light)](https://skillicons.dev)
@@ -50,6 +54,7 @@ I am constantly evolving and continuously learning, seeking challenges that allo
 
 ---
 
+<<<<<<< HEAD
 ### 📜 Certifications and Technical Qualifications
 
 <p align="center">
@@ -72,6 +77,9 @@ I am constantly evolving and continuously learning, seeking challenges that allo
 | **🧱 Laboratórios AWS (30 Labs)**                | Repositório com 30 laboratórios práticos divididos em níveis básico, intermediário e avançado para prática de DevOps, Cloud e infraestrutura como código. | AWS, Terraform, Docker, GitHub Actions, EKS, ECS, Lambda, Prometheus, Grafana, Jenkins, Cognito   |
 | **🕹️ Game em Java (Roguelike / Soul Knight-like)** | Game 2D com Java focado em ação e progressão de níveis, com gráficos e lógica integrados, potencial para versão fullscreen e integração com C/C#.   | Java, Swing/JavaFX, SDL (via JNI), integração com C/C#, arquivos binários, design modular         |  
 ---
+=======
+
+>>>>>>> a7014df (Atualiza README com novas informações)
 
 ### Get in Touch / Professional Networks
 
