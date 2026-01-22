@@ -4,7 +4,7 @@
 
 ![Minha Foto](/fundogit.png)
 
-Sou um profissional que gosta de tecnologia e inovação, comprometido em transformar desafios complexos em soluções eficientes e impactantes. Com uma base sólida em desenvolvimento Java, Spring, análise de dados e suporte técnico, direciono minha carreira para áreas como Cloud Computing e Automação de Infraestrutura juntamente com desenvolvimento back-end, sempre com uma abordagem prática e analítica. 
+Sou um profissional que gosta de tecnologia e inovação, comprometido em transformar desafios complexos em soluções eficientes e impactantes. Direciono minha carreira para áreas como Cloud Computing, Infraestrutura juntamente com desenvolvimento back-end, sempre com uma abordagem prática e analítica. 
 
 ### 	Development Environment / Tool Stack
 
