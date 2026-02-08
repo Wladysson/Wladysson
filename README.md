@@ -1,7 +1,5 @@
 # Hey, I'm Wladyson Araujo
 
-**`Desenvolvimento - Cloud Computing`**
-
 <picture>
   <source media="(prefers-color-scheme: dark)"
           srcset="https://raw.githubusercontent.com/Wladysson/Wladysson/output/pacman-contribution-graph-dark.svg">
@@ -11,7 +9,25 @@
        src="https://raw.githubusercontent.com/Wladysson/Wladysson/output/pacman-contribution-graph.svg">
 </picture>
 
-Sou um profissional focado em desenvolvimento Java e Infraestrutura Cloud. Minha especialidade vai desde automatizar processos e criar arquiteturas que suportem crescimento de negócio com segurança e resiliência ate arquiteturas escaláveis que acompanhem a evolução do trafego, garantindo que o sistema se adapte automaticamente as variações, mantendo sempre a segurança e a continuidade dos serviços. Atualmente, busco aplicar minha experiência em Cloud e DevOps que venho me dedicando juntamente com minha base em java para resolver problemas com soluções modernas e impacto real.
+<p align="center">
+  Technology and Creativity
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/wladyson-ara%C3%BAjo-a47348272/">
+    <img src="https://img.shields.io/badge/-LinkedIn-00AB33?style=flat-square&logo=Linkedin&logoColor=white">
+  </a>
+  <a href="wladysonaraujo991@gmail.com">
+  <img src="https://img.shields.io/badge/-Email-00AB33?style=flat-square&logo=Gmail&logoColor=white">
+  </a>
+</p>
+
+---
+
+### 🧠 About Me
+
+I am a professional focused on Java development and Cloud Infrastructure. My expertise ranges from automating processes and creating architectures that support business growth with security and resilience to scalable architectures that keep pace with evolving traffic, ensuring the system automatically adapts to variations while maintaining security and service continuity. Currently, I seek to apply my experience in Cloud and DevOps, which I have dedicated myself to, along with my Java foundation, to solve problems. Here you will find projects, tutorials, and my experiments with AI, Java, Cloud, and much more.
+
 
 ---
 
@@ -63,15 +79,6 @@ Sou um profissional focado em desenvolvimento Java e Infraestrutura Cloud. Minha
 ![VLAN](https://img.shields.io/badge/VLAN-9C27B0?style=for-the-badge&logo=cisco&logoColor=white)
 ![TCP-IP](https://img.shields.io/badge/TCP%2FIP-FF5722?style=for-the-badge&logo=internetarchive&logoColor=white)
 
-
-
-
-### Professional Networks
-
-<div>
-  <a href="https://www.linkedin.com/in/wladyson-ara%C3%BAjo-a47348272/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  <a href = "wladysonaraujo991@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</br>
 
 ---
 
