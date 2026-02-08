@@ -1,0 +1,25 @@
+name: Generate Pacman Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # todo dia
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate Pacman SVG
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: Wladysson
+          theme: github
+          output_path: dist
+
+      - name: Push SVG
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
