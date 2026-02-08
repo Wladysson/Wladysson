@@ -11,12 +11,6 @@
        src="https://raw.githubusercontent.com/Wladysson/Wladysson/output/pacman-contribution-graph.svg">
 </picture>
 
-<<<<<<< HEAD
-=======
-Sou um profissional que gosta de tecnologia e inovação, comprometido em transformar desafios complexos em soluções eficientes e impactantes. Direciono minha carreira para áreas como Cloud Computing, Infraestrutura juntamente com desenvolvimento back-end, sempre com uma abordagem prática e analítica. 
->>>>>>> da01914c75249693c3259dc5d7fae8060e9e43fc
-
-
 Sou um profissional focado em desenvolvimento Java e Infraestrutura Cloud. Minha especialidade vai desde automatizar processos e criar arquiteturas que suportem crescimento de negócio com segurança e resiliência ate arquiteturas escaláveis que acompanhem a evolução do trafego, garantindo que o sistema se adapte automaticamente as variações, mantendo sempre a segurança e a continuidade dos serviços. Atualmente, busco aplicar minha experiência em Cloud e DevOps que venho me dedicando juntamente com minha base em java para resolver problemas com soluções modernas e impacto real.
 
 ---
