@@ -10,23 +10,42 @@
 </picture>
 
 <p align="center">
-  Technology and Creativity
+  Backend Engineer • Cloud • DevOps • Distributed Systems
 </p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/wladyson-ara%C3%BAjo-a47348272/">
-    <img src="https://img.shields.io/badge/-LinkedIn-00AB33?style=flat-square&logo=Linkedin&logoColor=white">
+    <img
+      align="center"
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
   </a>
-  <a href="wladysonaraujo991@gmail.com">
-  <img src="https://img.shields.io/badge/-Email-00AB33?style=flat-square&logo=Gmail&logoColor=white">
+  <a href="mailto:wladysonaraujo991@gmail.com">
+    <img
+      align="center"
+      src="https://img.shields.io/badge/Gmail-0A0F1C?style=for-the-badge&logo=gmail&logoColor=3B82F6"
+    />
   </a>
 </p>
 
 ---
 
 ---
+<br>
 
-## 🧠 About Me
+
+<div align="center">
+
+<a href="https://wladysson.github.io/wladyson.github.io/">
+  <img 
+    width="70%"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F1C,100:2563EB&height=120&section=header&text=Access%20My%20Portfolio&fontSize=30&fontColor=FFFFFF&animation=fadeIn"
+  />
+</a>
+
+</div>
+
 
 I am a professional focused on Java development and Cloud Infrastructure. My expertise ranges from automating processes and creating architectures that support business growth with security and resilience to scalable architectures that keep pace with evolving traffic, ensuring the system automatically adapts to variations while maintaining security and service continuity.
 
@@ -67,25 +86,26 @@ Currently, I seek to apply my experience in Cloud and DevOps, along with my Java
 
 <br>
 
-# 🚀 Projetos em Desenvolvimento
+# 🚀 Projects in Development
 
 <table align="center">
 <tr>
+
 <td align="center">
 <a href="https://github.com/Wladysson/Bank">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Wladysson&repo=Bank&theme=blue_navy&hide_border=true"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Wladysson&repo=Bank&theme=blue_navy&hide_border=true&v=2"/>
 </a>
 </td>
 
 <td align="center">
 <a href="https://github.com/Wladysson/SpeedPag">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Wladysson&repo=SpeedPag&theme=blue_navy&hide_border=true"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Wladysson&repo=SpeedPag&theme=blue_navy&hide_border=true&v=2"/>
 </a>
 </td>
 
 <td align="center">
 <a href="https://github.com/Wladysson/jusconnect-platform">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Wladysson&repo=jusconnect-platform&theme=blue_navy&hide_border=true"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Wladysson&repo=jusconnect-platform&theme=blue_navy&hide_border=true&v=2"/>
 </a>
 </td>
 
@@ -94,16 +114,17 @@ Currently, I seek to apply my experience in Cloud and DevOps, along with my Java
 
 <br>
 
-# 📊 Estatisticas
+# 📊 Statistics
+
 
 <table align="center">
 <tr>
 <td>
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Wladysson&show_icons=true&theme=blue_navy&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Wladysson&show_icons=true&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true"/>
 </td>
 
 <td>
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Wladysson&layout=compact&theme=blue_navy&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Wladysson&layout=compact&theme=blue_navy&hide_border=true&langs_count=8"/>
 </td>
 </tr>
 </table>
