@@ -19,7 +19,7 @@ jobs:
           github_user_name: Wladysson
           github_token: ${{ secrets.GITHUB_TOKEN }}
           player_style: default
-          games: true
+          games: pacman
 
       - name: Push SVG
         uses: crazy-max/ghaction-github-pages@v3
