@@ -10,7 +10,7 @@
 </picture>
 
 <p align="center">
-  Backend Engineer • Cloud • DevOps • microservice
+  Backend Engineer • Cloud • DevOps • Microservice
 </p>
 
 
