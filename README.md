@@ -89,8 +89,8 @@ Currently, I seek to apply my experience in Cloud and DevOps, along with my Java
 # 🚀 Projects in Development
 
 <table align="center">
-<tr>
 
+<tr>
 <td align="center">
 <a href="https://github.com/Wladysson/Bank">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Wladysson&repo=Bank&theme=blue_navy&hide_border=true&v=2"/>
@@ -108,8 +108,28 @@ Currently, I seek to apply my experience in Cloud and DevOps, along with my Java
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Wladysson&repo=jusconnect-platform&theme=blue_navy&hide_border=true&v=2"/>
 </a>
 </td>
-
 </tr>
+
+<tr>
+<td align="center">
+<a href="https://github.com/Wladysson/Bead-Machine">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Wladysson&repo=Bead-Machine&theme=blue_navy&hide_border=true&v=2"/>
+</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/Wladysson/DataCredit">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Wladysson&repo=DataCredit&theme=blue_navy&hide_border=true&v=2"/>
+</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/Wladysson/FastPay">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Wladysson&repo=FastPay&theme=blue_navy&hide_border=true&v=2"/>
+</a>
+</td>
+</tr>
+
 </table>
 
 <br>
