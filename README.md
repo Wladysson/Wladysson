@@ -130,6 +130,28 @@ Currently, I seek to apply my experience in Cloud and DevOps, along with my Java
 </td>
 </tr>
 
+<tr>
+<td align="center">
+<a href="https://github.com/Wladysson/TicketView">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Wladysson&repo=TicketView&theme=blue_navy&hide_border=true&v=2"/>
+</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/Wladysson/NotPush">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Wladysson&repo=NotPush&theme=blue_navy&hide_border=true&v=2"/>
+</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/Wladysson/bookinghub">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Wladysson&repo=bookinghub&theme=blue_navy&hide_border=true&v=2"/>
+</a>
+</td>
+</tr>
+</tr>
+
+
 </table>
 
 <br>
