@@ -160,11 +160,11 @@ Currently, I seek to apply my experience in Cloud and DevOps, along with my Java
 <tr>
 
 <td>
-<img height="180em" src="https://github-stats-extended.vercel.app/api?username=Wladysson&show_icons=true&include_all_commits=true&count_private=true&bg_color=ffffff&title_color=2f80ed&text_color=434d58&icon_color=4c71f2&border_color=e4e2e2&hide_border=false&number_format=short"/>
+<img height="200em" src="https://github-stats-extended.vercel.app/api?username=Wladysson&show_icons=true&include_all_commits=true&count_private=true&bg_color=ffffff&title_color=2f80ed&text_color=434d58&icon_color=4c71f2&border_color=e4e2e2&hide_border=false&number_format=short"/>
 </td>
 
 <td>
-<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Wladysson&layout=compact&theme=default&bg_color=ffffff&title_color=2f80ed&text_color=434d58&icon_color=4c71f2&border_color=e4e2e2&hide_border=false&langs_count=8"/>
+<img height="200em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Wladysson&layout=compact&theme=default&bg_color=ffffff&title_color=2f80ed&text_color=434d58&icon_color=4c71f2&border_color=e4e2e2&hide_border=false&langs_count=8"/>
 </td>
 
 </tr>
