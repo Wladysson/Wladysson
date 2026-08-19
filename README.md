@@ -93,19 +93,19 @@ Currently, I seek to apply my experience in Cloud and DevOps, along with my Java
 <tr>
 <td align="center">
 <a href="https://github.com/Wladysson/Bank">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Wladysson&repo=Bank&theme=blue_navy&hide_border=true&v=2"/>
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=Wladysson&repo=Bank&theme=blue_navy&hide_border=true&v=2"/>
 </a>
 </td>
 
 <td align="center">
 <a href="https://github.com/Wladysson/SpeedPag">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Wladysson&repo=SpeedPag&theme=blue_navy&hide_border=true&v=2"/>
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=Wladysson&repo=SpeedPag&theme=blue_navy&hide_border=true&v=2"/>
 </a>
 </td>
 
 <td align="center">
 <a href="https://github.com/Wladysson/jusconnect-platform">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Wladysson&repo=jusconnect-platform&theme=blue_navy&hide_border=true&v=2"/>
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=Wladysson&repo=jusconnect-platform&theme=blue_navy&hide_border=true&v=2"/>
 </a>
 </td>
 </tr>
@@ -113,19 +113,19 @@ Currently, I seek to apply my experience in Cloud and DevOps, along with my Java
 <tr>
 <td align="center">
 <a href="https://github.com/Wladysson/Bead-Machine">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Wladysson&repo=Bead-Machine&theme=blue_navy&hide_border=true&v=2"/>
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=Wladysson&repo=Bead-Machine&theme=blue_navy&hide_border=true&v=2"/>
 </a>
 </td>
 
 <td align="center">
 <a href="https://github.com/Wladysson/DataCredit">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Wladysson&repo=DataCredit&theme=blue_navy&hide_border=true&v=2"/>
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=Wladysson&repo=DataCredit&theme=blue_navy&hide_border=true&v=2"/>
 </a>
 </td>
 
 <td align="center">
 <a href="https://github.com/Wladysson/FastPay">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Wladysson&repo=FastPay&theme=blue_navy&hide_border=true&v=2"/>
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=Wladysson&repo=FastPay&theme=blue_navy&hide_border=true&v=2"/>
 </a>
 </td>
 </tr>
@@ -133,24 +133,22 @@ Currently, I seek to apply my experience in Cloud and DevOps, along with my Java
 <tr>
 <td align="center">
 <a href="https://github.com/Wladysson/TicketView">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Wladysson&repo=TicketView&theme=blue_navy&hide_border=true&v=2"/>
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=Wladysson&repo=TicketView&theme=blue_navy&hide_border=true&v=2"/>
 </a>
 </td>
 
 <td align="center">
 <a href="https://github.com/Wladysson/NotPush">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Wladysson&repo=NotPush&theme=blue_navy&hide_border=true&v=2"/>
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=Wladysson&repo=NotPush&theme=blue_navy&hide_border=true&v=2"/>
 </a>
 </td>
 
 <td align="center">
 <a href="https://github.com/Wladysson/bookinghub">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Wladysson&repo=bookinghub&theme=blue_navy&hide_border=true&v=2"/>
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=Wladysson&repo=bookinghub&theme=blue_navy&hide_border=true&v=2"/>
 </a>
 </td>
 </tr>
-</tr>
-
 
 </table>
 
@@ -158,12 +156,19 @@ Currently, I seek to apply my experience in Cloud and DevOps, along with my Java
 
 # 📊 Statistics
 
-
 <table align="center">
 <tr>
 <td>
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Wladysson&show_icons=true&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=Wladysson&show_icons=true&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true"/>
 </td>
+
+<td>
+<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Wladysson&layout=compact&theme=blue_navy&hide_border=true&langs_count=8"/>
+</td>
+</tr>
+</table>
+
+---
 
 <td>
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Wladysson&layout=compact&theme=blue_navy&hide_border=true&langs_count=8"/>
