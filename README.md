@@ -42,6 +42,38 @@ I am a professional focused on Java development and Cloud Infrastructure. My exp
 
 Currently, I seek to apply my experience in Cloud and DevOps, along with my Java foundation, to solve complex problems. Here you will find projects, tutorials, and my experiments with AI, Java, Cloud, and much more.
 
+---
+
+<div align="center">
+
+<img src="./fig/ia.png" height="120">
+<img src="./fig/prationa.png" height="120">
+<img src="./fig/SAA.png" height="120">
+<img src="./fig/developer.png" height="120">
+<img src="./fig/machine.png" height="120">
+<img src="./fig/image.png" height="120">
+
+<br>
+
+<img src="./fig/terr.png" height="120">
+<img src="./fig/probob.png" height="120">
+<img src="./fig/vault.png" height="120">
+<img src="./fig/blob.png" height="120">
+<img src="./fig/dog.png" height="120">
+
+<br>
+
+<img src="./fig/red.png" height="120">
+<img src="./fig/gitops.png" height="120">
+<img src="./fig/thumb_201604_blob.png" height="120">
+<img src="./fig/octuplos.png" height="120">
+<img src="./fig/redlinux.png" height="120">
+
+
+</div>
+
+---
+
 <br>
 
 # 🛠️ Technologies & Tools
